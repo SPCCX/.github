@@ -12,43 +12,43 @@ This workspace contains the complete technology stack for SPC's legal case manag
 
 | Project | Type | Technology | Status | Purpose |
 |---------|------|------------|--------|---------|
-| [api-spc-server](#api-spc-server) | Backend API | Node.js/Express | Production | Main API server with OCR, AI, document processing |
-| [CA_MobileApp](#ca_mobileapp) | Mobile App | Flutter | Production | Customer application for CA services |
-| [SPC-Mobile-WORKS](#spc-mobile-works) | Mobile App | Flutter | Production | Mobile work management |
-| [spc-ocr](#spc-ocr) | Backend API | Python/FastAPI | Production | OCR processing service |
-| [wcatapi](#wcatapi) | Backend API | Python/FastAPI | Production | WCAT production line API |
-| [Spc-Assign](#spc-assign) | Backend API | Node.js/Express | Production | Assignment management system |
-| [spc-work-api](#spc-work-api) | Backend API | Node.js/Express | Production | Work management API |
-| [Dashboard_WSC](#dashboard_wsc) | Frontend | Node.js/React | Production | WSC dashboard application |
-| [Lawyer_Dashboard](#lawyer_dashboard) | Frontend | Node.js | Production | Lawyer management dashboard |
-| [eService_Lawyer_App](#eservice_lawyer_app) | Mobile App | Flutter | Production | Lawyer e-service application |
-| [eService_mobile_New](#eservice_mobile_new) | Mobile App | Flutter | Production | New e-service mobile app |
-| [eservice_lawyer_app_new](#eservice_lawyer_app_new) | Mobile App | Flutter | Production | Updated lawyer application |
-| [sds_hrm_app](#sds_hrm_app) | Mobile App | Flutter | Production | HRM mobile application |
-| [wcat_productionline_app](#wcat_productionline_app) | Mobile App | Flutter | Production | Production line management |
-| [api_spc_ocr](#api_spc_ocr) | Backend API | Python/FastAPI | Production | OCR API service |
-| [connect-erp](#connect-erp) | Backend API | Node.js/Express | Production | ERP system connector |
-| [spc-connect](#spc-connect) | Frontend | Node.js | Production | SPC connection service |
-| [spc-connect-api](#spc-connect-api) | Backend API | Node.js/Express | Production | SPC connect API backend |
-| [e-service-docx](#e-service-docx) | Backend API | Node.js/Express | Production | Document generation service |
-| [Scrapping-api](#scrapping-api) | Backend API | Node.js/Express | Production | Web scraping service |
-| [SPC-Notify](#spc-notify) | Backend API | Node.js/Express | Production | Notification service |
-| [Spc-realtime-api](#spc-realtime-api) | Backend API | Node.js/Express | Production | Real-time API service |
-| [spc-realtime](#spc-realtime) | Backend API | Node.js | Production | Real-time service v1 |
-| [spc-realtime-v2](#spc-realtime-v2) | Backend API | Node.js | Production | Real-time service v2 |
-| [spc-dashbord](#spc-dashbord) | Frontend | Node.js | Production | Main SPC dashboard |
-| [lawyer-map](#lawyer-map) | Frontend | Node.js | Production | Lawyer location mapping |
-| [lawyerapp](#lawyerapp) | Frontend | Node.js | Production | Lawyer web application |
-| [newsplsytem](#newsplsytem) | Frontend | Node.js | Production | News/content management |
-| [Windy](#windy) | Backend API | Python | Production | Weather/wind data service |
-| [DebtCollectorAPI](#debtcollectorapi) | Backend API | .NET/C# | Production | Debt collection management |
-| [DeptFlow](#deptflow) | Backend | TBD | Production | Department workflow system |
-| [Docker-ffmpeg](#docker-ffmpeg) | Service | Node.js/Docker | Production | FFmpeg media processing |
-| [Weather_alert](#weather_alert) | Backend API | Node.js/Express | Production | Weather alert system |
-| [E-Service-V4](#e-service-v4) | Frontend | Node.js | Production | E-Service version 4 |
-| [api-assing-mail](#api-assing-mail) | Backend API | Node.js/Express | Production | Email assignment API |
-| [spc-maill-management](#spc-maill-management) | Backend API | Node.js/Express | Production | Mail management system |
-| [dev-documents](#dev-documents) | Documentation | Markdown | Active | Development documentation |
+| [api-spc-server](https://github.com/SPCCX/api-spc-server) | Backend API | Node.js/Express | Production | Main API server with OCR, AI, document processing |
+| [CA_MobileApp](https://github.com/SPCCX/CA_MobileApp) | Mobile App | Flutter | Production | Customer application for CA services |
+| [SPC-Mobile-WORKS](https://github.com/SPCCX/SPC-Mobile-WORKS) | Mobile App | Flutter | Production | Mobile work management |
+| [spc-ocr](https://github.com/SPCCX/spc-ocr) | Backend API | Python/FastAPI | Production | OCR processing service |
+| [wcatapi](https://github.com/SPCCX/wcatapi) | Backend API | Python/FastAPI | Production | WCAT production line API |
+| [Spc-Assign](https://github.com/SPCCX/Spc-Assign) | Backend API | Node.js/Express | Production | Assignment management system |
+| [spc-work-api](https://github.com/SPCCX/spc-work-api) | Backend API | Node.js/Express | Production | Work management API |
+| [Dashboard_WSC](https://github.com/SPCCX/Dashboard_WSC) | Frontend | Node.js/React | Production | WSC dashboard application |
+| [Lawyer_Dashboard](https://github.com/SPCCX/Lawyer_Dashboard) | Frontend | Node.js | Production | Lawyer management dashboard |
+| [eService_Lawyer_App](https://github.com/SPCCX/eService_Lawyer_App) | Mobile App | Flutter | Production | Lawyer e-service application |
+| [eService_mobile_New](https://github.com/SPCCX/eService_mobile_New) | Mobile App | Flutter | Production | New e-service mobile app |
+| [eservice_lawyer_app_new](https://github.com/SPCCX/eservice_lawyer_app_new) | Mobile App | Flutter | Production | Updated lawyer application |
+| [sds_hrm_app](https://github.com/SPCCX/sds_hrm_app) | Mobile App | Flutter | Production | HRM mobile application |
+| [wcat_productionline_app](https://github.com/SPCCX/wcat_productionline_app) | Mobile App | Flutter | Production | Production line management |
+| [api_spc_ocr](https://github.com/SPCCX/api_spc_ocr) | Backend API | Python/FastAPI | Production | OCR API service |
+| [connect-erp](https://github.com/SPCCX/connect-erp) | Backend API | Node.js/Express | Production | ERP system connector |
+| [spc-connect](https://github.com/SPCCX/spc-connect) | Frontend | Node.js | Production | SPC connection service |
+| [spc-connect-api](https://github.com/SPCCX/spc-connect-api) | Backend API | Node.js/Express | Production | SPC connect API backend |
+| [e-service-docx](https://github.com/SPCCX/e-service-docx) | Backend API | Node.js/Express | Production | Document generation service |
+| [Scrapping-api](https://github.com/SPCCX/Scrapping-api) | Backend API | Node.js/Express | Production | Web scraping service |
+| [SPC-Notify](https://github.com/SPCCX/SPC-Notify) | Backend API | Node.js/Express | Production | Notification service |
+| [Spc-realtime-api](https://github.com/SPCCX/Spc-realtime-api) | Backend API | Node.js/Express | Production | Real-time API service |
+| [spc-realtime](https://github.com/SPCCX/spc-realtime) | Backend API | Node.js | Production | Real-time service v1 |
+| [spc-realtime-v2](https://github.com/SPCCX/spc-realtime-v2) | Backend API | Node.js | Production | Real-time service v2 |
+| [spc-dashbord](https://github.com/SPCCX/spc-dashbord) | Frontend | Node.js | Production | Main SPC dashboard |
+| [lawyer-map](https://github.com/SPCCX/lawyer-map) | Frontend | Node.js | Production | Lawyer location mapping |
+| [lawyerapp](https://github.com/SPCCX/lawyerapp) | Frontend | Node.js | Production | Lawyer web application |
+| [newsplsytem](https://github.com/SPCCX/newsplsytem) | Frontend | Node.js | Production | News/content management |
+| [Windy](https://github.com/SPCCX/Windy) | Backend API | Python | Production | Weather/wind data service |
+| [DebtCollectorAPI](https://github.com/SPCCX/DebtCollectorAPI) | Backend API | .NET/C# | Production | Debt collection management |
+| [DeptFlow](https://github.com/SPCCX/DeptFlow) | Backend | TBD | Production | Department workflow system |
+| [Docker-ffmpeg](https://github.com/SPCCX/Docker-ffmpeg) | Service | Node.js/Docker | Production | FFmpeg media processing |
+| [Weather_alert](https://github.com/SPCCX/Weather_alert) | Backend API | Node.js/Express | Production | Weather alert system |
+| [E-Service-V4](https://github.com/SPCCX/E-Service-V4) | Frontend | Node.js | Production | E-Service version 4 |
+| [api-assing-mail](https://github.com/SPCCX/api-assing-mail) | Backend API | Node.js/Express | Production | Email assignment API |
+| [spc-maill-management](https://github.com/SPCCX/spc-maill-management) | Backend API | Node.js/Express | Production | Mail management system |
+| [dev-documents](https://github.com/SPCCX/dev-documents) | Documentation | Markdown | Active | Development documentation |
 
 ---
 
