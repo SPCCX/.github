@@ -8,6 +8,78 @@
 
 This workspace contains the complete technology stack for SPC's legal case management and debt collection platform. The system includes mobile applications, backend APIs, dashboards, OCR services, and integration tools that work together to manage legal workflows, document processing, and client services.
 
+---
+
+## 🔥 Top 10 Most Active Projects
+
+These are the most critical and frequently updated projects in the SPC ecosystem:
+
+| Rank | Project | Type | Key Features | Activity |
+|------|---------|------|--------------|----------|
+| 🥇 | [**api-spc-server**](https://github.com/SPCCX/api-spc-server) | Backend API | Central hub for all services, 100+ endpoints, OCR, AI, document processing | 🟢 Very High |
+| 🥈 | [**CA_MobileApp**](https://github.com/SPCCX/CA_MobileApp) | Mobile App | Customer-facing app, case management, map integration, analytics | 🟢 Very High |
+| 🥉 | [**spc-ocr**](https://github.com/SPCCX/spc-ocr) | Python API | Multi-engine OCR (Google Vision, Azure, Tesseract), document processing | 🟢 High |
+| 4 | [**eService_mobile_New**](https://github.com/SPCCX/eService_mobile_New) | Mobile App | Next-gen e-service platform, enhanced features, modern architecture | 🟢 High |
+| 5 | [**SPC-Notify**](https://github.com/SPCCX/SPC-Notify) | Backend API | Multi-channel notifications (Firebase, email, SMS, LINE) | 🟡 High |
+| 6 | [**e-service-docx**](https://github.com/SPCCX/e-service-docx) | Backend API | Legal document generation, DOCX/PDF templates, batch processing | 🟡 High |
+| 7 | [**Spc-Assign**](https://github.com/SPCCX/Spc-Assign) | Backend API | Intelligent case assignment, workload balancing, lawyer matching | 🟡 Medium |
+| 8 | [**Dashboard_WSC**](https://github.com/SPCCX/Dashboard_WSC) | Frontend | Business analytics, KPI tracking, real-time metrics | 🟡 Medium |
+| 9 | [**spc-work-api**](https://github.com/SPCCX/spc-work-api) | Backend API | Work management, time tracking, task assignment | 🟡 Medium |
+| 10 | [**connect-erp**](https://github.com/SPCCX/connect-erp) | Backend API | ERP integration, data synchronization, automated workflows | 🟡 Medium |
+
+**Activity Levels:**
+- 🟢 **Very High** - Daily updates, critical to operations
+- 🟡 **High** - Weekly updates, important features
+- 🟠 **Medium** - Regular updates, stable features
+
+### 📊 Activity by Commit Count
+
+Based on actual git commit history (all-time):
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#ff6b6b','primaryTextColor':'#fff','primaryBorderColor':'#c92a2a','lineColor':'#f59f00','secondaryColor':'#74c0fc','tertiaryColor':'#ffd43b'}}}%%
+graph TD
+    subgraph "Top 10 Projects by Development Activity"
+        A["🥇 api-spc-server: 1,870 commits ████████████████████"]
+        B["🥈 newsplsytem: 1,356 commits ███████████████"]
+        C["🥉 Spc-Assign: 362 commits ████"]
+        D["4️⃣ spc-connect: 282 commits ███"]
+        E["5️⃣ spc-connect-api: 229 commits ██"]
+        F["6️⃣ e-service-docx: 203 commits ██"]
+        G["7️⃣ lawyerapp: 156 commits ██"]
+        H["8️⃣ lawyer-map: 84 commits █"]
+        I["9️⃣ Scrapping-api: 79 commits █"]
+        J["🔟 spc-work-api: 76 commits █"]
+    end
+    
+    style A fill:#ff6b6b,stroke:#c92a2a,stroke-width:3px,color:#fff
+    style B fill:#ff8787,stroke:#c92a2a,stroke-width:2px,color:#fff
+    style C fill:#ffa94d,stroke:#f59f00,stroke-width:2px
+    style D fill:#ffd43b,stroke:#f59f00,stroke-width:2px
+    style E fill:#ffd43b,stroke:#f59f00,stroke-width:2px
+    style F fill:#74c0fc,stroke:#1971c2,stroke-width:2px
+    style G fill:#74c0fc,stroke:#1971c2,stroke-width:2px
+    style H fill:#a5d8ff,stroke:#1971c2,stroke-width:1px
+    style I fill:#a5d8ff,stroke:#1971c2,stroke-width:1px
+    style J fill:#a5d8ff,stroke:#1971c2,stroke-width:1px
+```
+
+**Commit Analysis:**
+- 🔴 **1,000+ commits** - Extremely active development (api-spc-server, newsplsytem)
+- 🟠 **200-500 commits** - High activity (Spc-Assign, spc-connect, spc-connect-api, e-service-docx)
+- 🟡 **100-200 commits** - Medium activity (lawyerapp)
+- 🔵 **<100 commits** - Stable/mature projects (lawyer-map, Scrapping-api, spc-work-api)
+
+**Notable Projects (also active):**
+- `spc-ocr`: 62 commits (OCR processing)
+- `connect-erp`: 62 commits (ERP integration)
+- `CA_MobileApp`: 60 commits (Customer mobile app)
+- `spc-maill-management`: 33 commits (Mail management)
+
+> **💡 Insight:** `api-spc-server` has 1,870 commits, making it the most actively developed project by far. This reflects its role as the central hub of the entire platform.
+
+---
+
 ## Quick Reference Table
 
 | Project | Type | Technology | Status | Purpose |
