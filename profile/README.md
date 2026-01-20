@@ -2,7 +2,7 @@
 
 **Last Updated:** January 21, 2026  
 **Total Projects:** 37  
-**Organization:** SPC (Siam Premier Collection)
+**Organization:** SPC (SITTIPRACHA CORPORATION)
 
 ## Overview
 
