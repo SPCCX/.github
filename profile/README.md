@@ -17,15 +17,9 @@ These are the most critical and frequently updated projects in the SPC ecosystem
 | Rank | Project | Type | Key Features | Activity |
 |------|---------|------|--------------|----------|
 | 🥇 | [**api-spc-server**](https://github.com/SPCCX/api-spc-server) | Backend API | Central hub for all services, 100+ endpoints, OCR, AI, document processing | 🟢 Very High |
-| 🥈 | [**CA_MobileApp**](https://github.com/SPCCX/CA_MobileApp) | Mobile App | Customer-facing app, case management, map integration, analytics | 🟢 Very High |
-| 🥉 | [**spc-ocr**](https://github.com/SPCCX/spc-ocr) | Python API | Multi-engine OCR (Google Vision, Azure, Tesseract), document processing | 🟢 High |
-| 4 | [**eService_mobile_New**](https://github.com/SPCCX/eService_mobile_New) | Mobile App | Next-gen e-service platform, enhanced features, modern architecture | 🟢 High |
-| 5 | [**SPC-Notify**](https://github.com/SPCCX/SPC-Notify) | Backend API | Multi-channel notifications (Firebase, email, SMS, LINE) | 🟡 High |
-| 6 | [**e-service-docx**](https://github.com/SPCCX/e-service-docx) | Backend API | Legal document generation, DOCX/PDF templates, batch processing | 🟡 High |
-| 7 | [**Spc-Assign**](https://github.com/SPCCX/Spc-Assign) | Backend API | Intelligent case assignment, workload balancing, lawyer matching | 🟡 Medium |
-| 8 | [**Dashboard_WSC**](https://github.com/SPCCX/Dashboard_WSC) | Frontend | Business analytics, KPI tracking, real-time metrics | 🟡 Medium |
-| 9 | [**spc-work-api**](https://github.com/SPCCX/spc-work-api) | Backend API | Work management, time tracking, task assignment | 🟡 Medium |
-| 10 | [**connect-erp**](https://github.com/SPCCX/connect-erp) | Backend API | ERP integration, data synchronization, automated workflows | 🟡 Medium |
+| 🥈 | [newsplsytem](https://github.com/SPCCX/newsplsytem) | Frontend | Node.js | Production | News/content management | 🟢 Very High |
+| 🥉 | [Spc-Assign](https://github.com/SPCCX/Spc-Assign) | Backend API | Node.js/Express | Production | Assignment management system | 🟢 High |
+
 
 **Activity Levels:**
 - 🟢 **Very High** - Daily updates, critical to operations
